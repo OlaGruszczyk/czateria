@@ -1,1 +1,1 @@
-
+- rozmowa towarzyska - tylko to może być skutecznie imitowane
