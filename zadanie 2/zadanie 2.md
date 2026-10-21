@@ -1,1 +1,7 @@
-wfwefw
+- streszczanie tekstu
+- tłumaczenie tekstu
+- klasyfikacja tekstu do kategorii tematycznych
+- rozwiązywanie układów równań
+- rozwiązywanie układów równań liniowych
+- symboliczne obliczanie pochodnych
+- symboliczne całkowanie
